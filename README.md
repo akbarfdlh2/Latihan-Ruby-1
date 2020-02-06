@@ -1,2 +1,0 @@
-# Latihan-Ruby-1
-BOOTCAMP SMK WIKRAMA BOGOR XII
